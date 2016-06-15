@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PhoneButton">
+        <attr name="textNum" format="reference|string"/>
+        <attr name="textAlphabet" format="reference|string"/>
+        <attr name="textNumSize" format="dimension"/>
+        <attr name="textAlphaSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>
